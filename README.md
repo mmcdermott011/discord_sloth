@@ -11,7 +11,7 @@ Discord bot named sloth. "Hey you guyyysss!"
 * * * whenever you're done working, make sure to deactivate
 * * pip3 install requirements.txt
 
-##Contributing
+## Contributing
 The requested way to contribute would be to create a new branch off of main, then open a pull request to be reviewed for integrating them
 * git branch -b <your_new_branch_name>
 * make your changes

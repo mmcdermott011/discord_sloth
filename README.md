@@ -1,10 +1,15 @@
-<img src="https://github.com/mmcdermott011/discord_sloth/blob/e219e6e2d97b4b9e25d30c8aa67e8f4556512fca/sloth.jpg" width="700"/>
 # discord_sloth
+<img src="https://github.com/mmcdermott011/discord_sloth/blob/e219e6e2d97b4b9e25d30c8aa67e8f4556512fca/sloth.jpg" width="700"/>
 Discord bot named sloth. "Hey you guyyysss!"
 
 ## Getting Started
-Clone the repository to your local computer using:
-git clone https://github.com/mmcdermott011/discord_sloth.git
+* Clone the repository to your local computer using:
+* * git clone https://github.com/mmcdermott011/discord_sloth.git
+* Create a virtual environment
+* * python3 -m venv sloth_venv
+* * source ./sloth_venv/bin/activate
+* * * whenever you're done working, make sure to deactivate
+* * pip3 install requirements.txt
 
 ##Contributing
 The requested way to contribute would be to create a new branch off of main, then open a pull request to be reviewed for integrating them

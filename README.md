@@ -1,4 +1,4 @@
-<img src="https://github.com/mmcdermott011/discord_sloth/raw/master/sloth.jpg" width="500"/>
+<img src="https://github.com/mmcdermott011/discord_sloth/blob/e219e6e2d97b4b9e25d30c8aa67e8f4556512fca/sloth.jpg" width="700"/>
 # discord_sloth
 Discord bot named sloth. "Hey you guyyysss!"
 

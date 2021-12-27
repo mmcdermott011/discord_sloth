@@ -6,8 +6,8 @@ import requests
 import json
 from auth import TOKEN
 import datetime
-from source import crypto
-from source import weather
+from app import crypto
+from app import weather
 
 DEFAULT_RESPONSE = "HEYY YOUU GUUUYYYYSSSS!"
 GOONIES_QUOTES = ["Jerk Alert!", "Goonies never say die!", DEFAULT_RESPONSE, "RUTH! RUTH! BABY! RUTH!", "CHHHOOOCCCOOLLAATTEE"]

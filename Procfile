@@ -1,2 +1,2 @@
-web: python3 sloth_bot.py
-worker: python3 sloth_bot.py
+web: python3 app/sloth_bot.py
+worker: python3 app/sloth_bot.py

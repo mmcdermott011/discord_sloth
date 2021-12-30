@@ -2,6 +2,10 @@
 <img src="https://github.com/mmcdermott011/discord_sloth/blob/e219e6e2d97b4b9e25d30c8aa67e8f4556512fca/sloth.jpg" width="700"/>
 Discord bot named sloth. "Hey you guyyysss!"
 
+## Prerequisites
+* Have git installed locally on your machine and a github account
+* Being familiar with virtual environments
+
 ## Getting Started
 * Clone the repository to your local computer using:
 * * git clone https://github.com/mmcdermott011/discord_sloth.git

@@ -5,6 +5,7 @@ Discord bot named sloth. "Hey you guyyysss!"
 ## Prerequisites
 * Have git installed locally on your machine and a github account
 * Being familiar with virtual environments
+* Create a discord app here and connect it to whatever server you want it to run on https://discord.com/developers/applications
 
 ## Getting Started
 * Clone the repository to your local computer using:

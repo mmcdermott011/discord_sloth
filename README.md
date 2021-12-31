@@ -12,7 +12,7 @@ Discord bot named sloth. "Hey you guyyysss!"
 * * git clone https://github.com/mmcdermott011/discord_sloth.git
 * Create a virtual environment
 * * python3 -m venv sloth_venv
-* * source ./sloth_venv/bin/activate
+* * source . sloth_venv/bin/activate
 * * * whenever you're done working, make sure to deactivate
 * * pip3 install requirements.txt
 
